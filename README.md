@@ -13,7 +13,7 @@ I use the [fastai](http://www.fast.ai/2018/10/02/fastai-ai/) framework which sta
 * [favorita-02.ipynb](favorita-02.ipynb)
 
 **Stage 3, neural net training**
-* _comming sun_
+* _coming soon_
 
 **Stage X, optimizing**
 * [pandas-big-data.ipynb](pandas-big-data.ipynb) example based on train.csv how to optimize memory consumption during processing in Pandas
